@@ -1,4 +1,4 @@
-# Ahmad Karrabi | Data Science & Engineering Wizard 🧙‍♂️
+# Data Science & Engineering Wizard 🧙‍♂️
 
 ## 🚀 Who Am I? 
 
@@ -19,7 +19,7 @@ A data alchemist transforming complex challenges into intelligent solutions, bri
   - Microsoft Certified Systems Engineer 2000
   - Microsoft Certified Database Administrator 2000
 
-## Check My [portfolio](karrabi.github.io) for more
+## Check My [portfolio](https://karrabi.github.io/) for more
 
 ## 📧 Let's Connect!
 - **Email**: a.karrabi@gmail.com

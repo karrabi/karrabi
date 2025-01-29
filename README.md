@@ -1,4 +1,4 @@
-# Engineering Wizard 🧙‍♂️
+# Data Engineering Wizard 🧙‍♂️
 
 ## 🚀 Who Am I? 
 

@@ -1,8 +1,8 @@
-# Data Science & Engineering Wizard 🧙‍♂️
+# Engineering Wizard 🧙‍♂️
 
 ## 🚀 Who Am I? 
 
-A data alchemist transforming complex challenges into intelligent solutions, bridging machine learning, data engineering, and cloud technologies to drive innovation and insights.
+A data alchemist transforming complex challenges into intelligent solutions, bridging data engineering, cloud technologies, and machine learning to drive innovation and insights.
 
 ## 💻 My Tech Arsenal
 
@@ -14,7 +14,6 @@ A data alchemist transforming complex challenges into intelligent solutions, bri
 
 - **Certifications**:
   - IBM Data Science Capstone
-  - AWS Solutions Architect
   - Apache Airflow Specialist
   - Microsoft Certified Systems Engineer 2000
   - Microsoft Certified Database Administrator 2000
